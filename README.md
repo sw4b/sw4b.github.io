@@ -3,6 +3,6 @@
 
 这个网站什么内容自己去看吧！
 
-© Copyright Hangyang Inc. All right reserved
+© Copyright Hangyang Inc. All right reserved.
 
 GitHub提供技术支持
